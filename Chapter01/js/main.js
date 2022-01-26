@@ -1,0 +1,1 @@
+/* "Javascript" by Samuel H. Fogel, 2022 */
